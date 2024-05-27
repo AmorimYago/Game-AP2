@@ -20,12 +20,7 @@
 - "**Ctrl + N**" - Novo jogo.
 - "**Ctrl + S**" - Sair.
 
-### Faltando
-
-- [ ] Implementar regra para remoção do sopro em geral
-- [ ] Adicionar alguns elementos ao GUI do jogo
-
-### Contribuidores
+### Criadores
 
 - Yago de Amorim dos Santos
 - Maria Eduarda de Sousa Sampaio
